@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Bird Of Paradise",
+      "image": "https://www.gardeningknowhow.com/wp-content/uploads/2015/04/bop-garden-400x267.jpg",
+      "price": "50",
+      "id": 8
+    },
+    {
+      "name": "Plant ng Ibon",
+      "image": "https://www.gardeningknowhow.com/wp-content/uploads/2020/11/bird-of-paradise-flower-690x518.jpg",
+      "price": "24.97",
+      "id": 9
     }
   ]
 }
